@@ -2,3 +2,29 @@ body{
     background-image:url(../asset/img/IMG-20251014-WA0001.jpg) ;
     background-size: cover;
 }
+.calculatrice{
+    width: 300px;
+    margin: auto;
+    margin-top: 150px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}   
+.calculatrice2{
+    width: 300px;
+    margin: auto;
+    margin-top: 150px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}   
